@@ -1,6 +1,6 @@
 # Android Developer - Flutter | React Native | Java
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/your-linkedin-profile) [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Portfolio-orange.svg)](https://your-portfolio-website)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/gaurav-rathva-4aa815224/) [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Portfolio-orange.svg)](https://your-portfolio-website)
 
 ## Introduction
 As an experienced Android developer with expertise in Flutter, React Native, and Java, I bring strong technical skills and a passion for mobile app development to the table. With over 1 year of experience in React Native, I have gained in-depth knowledge and proficiency in creating cross-platform applications.
@@ -29,6 +29,6 @@ If you are seeking an Android developer with expertise in Flutter, React Native,
 Feel free to reach out to me for any inquiries, collaborations, or project opportunities.
 
 ## Connect with Me
-[![LinkedIn](images/linkedin-icon.png)](https://www.linkedin.com/in/your-linkedin-profile) [![GitHub](images/github-icon.png)](https://github.com/your-github-profile)
+[![LinkedIn](images/linkedin-icon.png)](https://www.linkedin.com/in/gaurav-rathva-4aa815224/) [![GitHub](images/github-icon.png)](https://github.com/gaurav3000R/gaurav3000R)
 
 Thank you for visiting my profile!
