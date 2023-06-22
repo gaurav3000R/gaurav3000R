@@ -23,8 +23,8 @@ I am a dedicated and motivated professional, always eager to learn and stay up-t
 
 If you are seeking an Android developer with expertise in Flutter, React Native, and Java, I would love to connect and explore how I can contribute to your organization's success. Let's connect and discuss potential opportunities!
 
-- **Email:** your.email@example.com
-- **Phone:** +1 (123) 456-7890
+- **Email:** gauravrathva8@gmail.com
+- **Phone:** (+91) 9265681173
 
 Feel free to reach out to me for any inquiries, collaborations, or project opportunities.
 
