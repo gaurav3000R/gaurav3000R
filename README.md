@@ -5,9 +5,9 @@ Software engineer in Vadodara, India. I build AI agents, RAG systems and mobile 
 **Selected work**
 
 - [**Calzye**](https://calzye.com) — 165 free calculators, all running in the browser. Astro · TypeScript
-- [**neuron-cli**](https://github.com/gaurav3000R/neuron-cli) — run and orchestrate local LLMs from the terminal. Go
-- [**edge-mind**](https://github.com/gaurav3000R/edge-mind) — private, offline-first AI chat on mobile. Flutter
-- [**CodeAtlas**](https://github.com/gaurav3000R/CodeAtlas) — architecture rules and code quality for AI-assisted projects
+- [**Agentic AI Platform**](https://github.com/gaurav3000R/agentic-ai-platform) — modular multi-agent system: chatbot, research and writer agents with tools. LangGraph · FastAPI
+- [**neuron-cli**](https://github.com/gaurav3000R/neuron-cli) — run and orchestrate local LLMs from the terminal, with a Slack bot. Go · Ollama
+- [**IT Analytics Platform**](https://github.com/gaurav3000R/Innovatrix-project) — project analytics with ML delivery-risk predictions. FastAPI · Next.js · dbt
 - **Odoo Hackathon 2026 finalist** — picked from 20,000+ registrations; built a double-entry ledger in 24 hours. FastAPI · Next.js
 
 **Currently** exploring agentic AI with LangGraph and local LLMs.
