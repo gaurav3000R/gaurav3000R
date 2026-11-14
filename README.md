@@ -53,4 +53,4 @@ I'm a software engineer in Vadodara, India, with 4+ years shipping mobile apps i
 
 ### Contact
 
-[Portfolio](https://gauravrathva.me) · [LinkedIn](https://www.linkedin.com/in/gaurav-r-4aa815224/)
+[Portfolio](https://gauravrathva.me) · [LinkedIn](https://www.linkedin.com/in/gauravrathva/)
